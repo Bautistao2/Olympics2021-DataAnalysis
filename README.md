@@ -117,8 +117,8 @@ The `visualizations.py` script generates plots to visually represent the data an
    - ![Pie chart showing the overall distribution of gold, silver, and bronze medals.](plots/medal_type_distribution.png)
    - Saved as `plots/medal_type_distribution.png`.
 
-3. **🏋️ Countries with the Most Disciplines**:
-   - ![Bar chart showing most succesfull couuntries by rank.](plots/must_successfull_countries_by_rank.png)
+3. **🏋️ Most Successfull Countries Rank**:
+   - ![Bar chart showing most succesfull couuntries by rank.](plots/most_successfull_countries_by_rank.png)
    - Saved as `plots/must_successfull_countries_by_rank.png`.
 
 4. **🏊 Most Competitive Sports**:

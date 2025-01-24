@@ -175,6 +175,6 @@ The `visualizations.py` script generates plots to visually represent the data an
 
 ## **🔍 Credits**
 - Dataset Source: [Kaggle](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo/data).
-- Author: ILyd Bautista
+- Author: ILyd Bautista.
 
 

@@ -122,8 +122,8 @@ The `visualizations.py` script generates plots to visually represent the data an
    - Saved as `plots/countries_with_most_disciplines.png`.
 
 4. **🏊 Most Competitive Sports**:
-   - ![Bar chart showing sports with the highest number of participating countries.](plots/most_competitive_sports.png)
-   - Saved as `plots/most_competitive_sports.png`.
+   - ![Bar chart showing sports with the highest number of participating countries.](plots/countries_with_most_sports.png)
+   - Saved as `plots/countries_with_most_sports.png`.
 
 ---
 

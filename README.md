@@ -118,8 +118,8 @@ The `visualizations.py` script generates plots to visually represent the data an
    - Saved as `plots/medal_type_distribution.png`.
 
 3. **🏋️ Countries with the Most Disciplines**:
-   - ![Bar chart showing the countries participating in the highest number of unique disciplines.](plots/countries_with_most_disciplines.png)
-   - Saved as `plots/countries_with_most_disciplines.png`.
+   - ![Bar chart showing most succesfull couuntries by rank.](plots/must_successfull_countries_by_rank.png)
+   - Saved as `plots/must_successfull_countries_by_rank.png`.
 
 4. **🏊 Most Competitive Sports**:
    - ![Bar chart showing sports with the highest number of participating countries.](plots/countries_with_most_sports.png)
